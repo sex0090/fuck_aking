@@ -7,8 +7,7 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools")
-    print("
+    print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools
 \033[1;32m███████╗███████╗██╗  ██╗
 \033[1;35m██╔════╝██╔════╝╚██╗██╔╝
 \033[1;34m███████╗█████╗   ╚███╔╝
